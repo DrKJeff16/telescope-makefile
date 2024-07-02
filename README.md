@@ -9,9 +9,13 @@ Simple telescope extension to run GNU Make targets in Neovim.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) for now.
 
+<!-- TODO: Fix missing GIF
+
 ## Demonstration
 
 ![Demo gif](https://gist.github.com/ptethng/7ac7f9c91a44f015d8fadea373f000d2/raw/fbdfa68fa3b9133884bd6e402898224db620ebb0/box-210809-2336-36.gif)
+
+-->
 
 ## Install
 
