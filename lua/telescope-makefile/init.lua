@@ -1,4 +1,10 @@
 local config = require("telescope-makefile.config")
+
+---@class TMake
+---@field setup fun(values: table|TMake.Config.Spec)
+
+---@type TMake
+---@diagnostic disable-next-line:missing-fields
 local M = {}
 
 -- Configures the plugin with the settings provided
