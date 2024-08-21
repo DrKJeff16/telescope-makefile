@@ -19,6 +19,6 @@ config.defaults = {
 	make_bin = "make",
 }
 
-setmetatable(config, { __index = config.defaults })
+local M = setmetatable(config, { __index = config.defaults })
 
-return config
+return M
